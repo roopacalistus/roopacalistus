@@ -1,0 +1,6 @@
+import pandas as pd
+
+#  Reading the file
+df = pd.read_csv("redwinequality.csv")
+df.sample(10)
+df.head(10)
