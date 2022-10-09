@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Roopa Calistus
-- 👀 I’m interested in Data Science
+# 👋 Hi, I’m Roopa Calistus
+
+# Data Science | Data Analytics | Python | SQL
+
+- 👀 I’m interested in Data Science, Data Analytics, Business Analytics
 - 🌱 I’m currently learning Machine Learning Algorithms
 - 📫 How to reach me : eliz.roop@gmail.com, https://www.linkedin.com/in/roopa-100ab042/
 
