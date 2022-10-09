@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Roopa Calistus
 
-# Data Science | Data Analytics | Python | SQL
+# Data Science | Data Analytics | Machine Learning | Python | SQL
 
 - 👀 I’m interested in Data Science, Data Analytics, Business Analytics
 - 🌱 I’m currently learning Machine Learning Algorithms
