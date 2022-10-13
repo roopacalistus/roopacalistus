@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Roopa Calistus
+# *** 👋 Hi, I’m Roopa Calistus ***
 
 # Data Science | Data Analytics | Machine Learning | Python | SQL
 
@@ -7,3 +7,4 @@
 - 📫 How to reach me : eliz.roop@gmail.com, https://www.linkedin.com/in/roopa-100ab042/
 
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
