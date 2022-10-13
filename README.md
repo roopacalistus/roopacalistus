@@ -7,4 +7,4 @@
 - 📫 How to reach me : eliz.roop@gmail.com, https://www.linkedin.com/in/roopa-100ab042/
 
 
-![This is an image](https://www.instagram.com/p/Cjm5sq1OtCP/?igshid=NmNmNjAwNzg=)
+![This is an image](/assets/images/electrocat.png)
